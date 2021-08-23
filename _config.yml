@@ -29,11 +29,16 @@ url: "https://cadpnq.github.io" # the base hostname & protocol for your site, e.
 twitter_username:
 github_username:  cadpnq
 
+minima:
+  skin: dark
+
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
+remote_theme: jekyll/minima
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
