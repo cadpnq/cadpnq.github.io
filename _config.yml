@@ -16,6 +16,7 @@ minima:
     github: cadpnq
 
 header_pages:
+  - index.md
   - portfolio.md
   - about.md
 
