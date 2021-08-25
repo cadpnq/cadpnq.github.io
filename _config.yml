@@ -1,12 +1,12 @@
 title: Nicky Nickell
 author:
   name: Nicky Nickell
-  email: nicky.nickell@gmail.com
+  email: me@nickynickell.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about whatever random shiny I happen to be working on. May contain 
   open source, game dev, mods, cpu design, and trace amounts of obscure RFCs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cadpnq.github.io"
+url: "https://nickynickell.com"
 
 show_excerpts: true
 
