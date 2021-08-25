@@ -15,6 +15,10 @@ minima:
   social_links:
     github: cadpnq
 
+header_pages:
+  - portfolio.md
+  - about.md
+
 # Build settings
 plugins:
   - jekyll-feed
