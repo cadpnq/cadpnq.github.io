@@ -2,7 +2,7 @@
 layout: project
 title: Envigorate
 category: projects
-descriptor: Node.js library
+summary: Node.js library
 links:
   - https://github.com/cadpnq/envigorate
   - https://www.npmjs.com/package/envigorate
